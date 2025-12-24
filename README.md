@@ -3,7 +3,8 @@
 🎓 Certifications
 - Neural Networks and Deep Learning – Coursera  
   Offered by: DeepLearning.AI  
-  Instructor: Andrew Ng  
+  Instructor: Andrew Ng
+  [View Certificate](https://github.com/pranaviii29/Certifications/blob/main/Neural_Networks_and_Deep_Learning_Coursera.pdf)
   
 
 
