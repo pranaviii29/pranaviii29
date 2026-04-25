@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Anjali Pranav 👋</h1>
+<h1>Hi, I'm Anjali Pranav 👋</h1>
 
-<p align="center">
+<p>
   <b>Data Science & Engineering Student · MIT Manipal</b>
 </p>
 
