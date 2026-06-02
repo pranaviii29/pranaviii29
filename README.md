@@ -8,10 +8,11 @@
 
 ## Currently Exploring
 
-- AI / Machine Learning  
-- Data Science  
-- Software Development  
-- Distributed Systems  
+- ai/ml
+- data science  
+- coding
+- dev 
+- distributed systems  
 
 ---
 
