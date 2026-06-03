@@ -4,8 +4,6 @@
   <b>Data Science & Engineering @ MIT Manipal '28</b>
 </p>
 
----
-
 ## Currently Exploring
 
 - ai/ml
@@ -14,7 +12,6 @@
 - dev 
 - distributed systems  
 
----
 
 ## Tech Stack
 
